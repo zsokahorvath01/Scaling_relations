@@ -2,7 +2,7 @@
 
 ## Light curves and data
 We used TESS light curves in QLP and TESS-SPOC pipelines. Stellar parameters ($[\text{Fe}/\text{H}],  [\alpha/\text{Fe}], T_\text{eff},$ and $\log{g}$) were adopted from various literature sources [1-12] assuming a representative uncertainty of 100 K for $T_\text{eff}$. For other parameters we used the mean and standard deviation.
-Photometric and astrometric data were obtained from *Gaia* DR3 [13-15]. In the absence of reliable data, extincion in $G$ band, $A_G$ was neglected.
+Photometric and astrometric data were obtained from *Gaia* DR3 [13]. In the absence of reliable data, extincion in $G$ band, $A_G$ was neglected.
 
 [1] Goswami, P. P., & Goswami, A. 2023, A&A, 672, A45 (arXiv:2212.00834)
 
@@ -28,8 +28,6 @@ Photometric and astrometric data were obtained from *Gaia* DR3 [13-15]. In the a
 
 [12] Cseh, B., Világos, B., Roriz, M. P., et al. 2022, A&A, 660, A128
 
-[13] Gaia Collaboration et al. 2023, A&A, 674, A1 (Gaia DR3)
+[13] Creevey, O. L., Sordo, R., Pailler, F., et al. 2023, A&A,90
+674, A26, doi: 10.1051/0004-6361/20224368891
 
-[14] Gaia Collaboration et al. 2021, A&A, 649, A1 (Gaia EDR3)
-
-[15] Gaia Collaboration et al. 2018, A&A, 616, A1 (Gaia DR2)
