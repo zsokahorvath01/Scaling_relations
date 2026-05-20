@@ -1,4 +1,4 @@
-# The applicability of APOKASC-based corrections across alternative seismic mass scaling relations
+# Can radius-based correction factors be generally adopted for asteroseismic scaling relations of stellar masses?
 
 ## Light curves and data
 We used TESS light curves in QLP and TESS-SPOC pipelines. Stellar parameters ($[\text{Fe}/\text{H}],  [\alpha/\text{Fe}], T_\text{eff},$ and $\log{g}$) were adopted from various literature sources [1-12] assuming a representative uncertainty of 100 K for $T_\text{eff}$. For other parameters we used the mean and standard deviation.
